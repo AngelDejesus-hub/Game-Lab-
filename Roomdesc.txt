@@ -1,0 +1,45 @@
+BedRoom
+This is your cozy bedroom, you sleep here everyday but something seems wrong.
+Go search around the house. 
+A door leads south into the hallway.
+#
+
+Hallway
+A long hallway connecting multiple rooms such as the bathroom, your parent room, a secret closet and the living room.
+The Bathroom is East of the Hallway
+The Living Room is South to the Hallway
+A ladder leads up to the secret closet.
+Your Parent's room is West.
+#
+
+Bathroom
+A clean bathroom with a shower and sink. 
+Everything seems so clean and organized.
+The hallway is west
+~
+Bathroom
+A messed up dirty bathroom probably because you and your brother are super messy. 
+You might want to clean this..
+The hallway is west 
+#
+
+Parent's Room
+This is parents bedroom, you are never in here so everything seems so scary to you. 
+Be quick about finding what you need your parents could be back anytime soon.
+The hallway is back east
+
+#
+Living Room
+This is the amazing living room, you and your brother loving to do nothing in here but that is the best part.
+The kitchen is West
+The hallway is North
+#
+Kitchen
+A kitchen full of fresh food and deserts!
+The Living Room is East
+#
+Secret Closet
+A small hidden space above the hallway.
+You are never in here and its super dark. 
+The hallway is West. 
+#
